@@ -18,3 +18,6 @@ C:\Users\Lenovo\Desktop\Database\图书管理系统\LibraryManagementSystem\Libr
 C:\Users\Lenovo\Desktop\Database\图书管理系统\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BooksBorrow.resources
 C:\Users\Lenovo\Desktop\Database\图书管理系统\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BooksReturn.resources
 C:\Users\Lenovo\Desktop\Database\图书管理系统\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.passwordRetrieve.resources
+C:\Users\John\Desktop\LibraryManagementSystem\Library-Management-System\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\John\Desktop\LibraryManagementSystem\Library-Management-System\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\John\Desktop\LibraryManagementSystem\Library-Management-System\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
