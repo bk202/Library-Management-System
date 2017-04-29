@@ -1,0 +1,10 @@
+MySQL workbench is required for execution of program.
+MySQL workbench can be downloaded and installed at https://dev.mysql.com/downloads/file/?id=470090.
+
+To execute the program:
+Open the execution program located at: ../Library-Management-System/bin/Debug/LibraryManagementSystem.exe
+
+To use the program:
+Login with your root account of local MySQL server.
+
+Detailed manual instruction and program development process can be found at 3140300075-ม๕ุ๊-สตั้5.pdf
